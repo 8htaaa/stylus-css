@@ -1,0 +1,246 @@
+/*ライトモードのみ対応しています**ダークモードには対応していません*/
+
+
+/*------------------------------------------------------------フォント------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&family=M+PLUS+1:wght@500&family=Mochiy+Pop+P+One&family=Ubuntu:wght@700&display=swap');
+
+.q8U8x{
+    font-family: 'Mochiy Pop P One', sans-serif;}
+
+.g, .Kp18bf, .LqvO9e, .gb_1d, .kEwVtd .S4aXnb, .G3iQRe, .dPO1Qe, .Sa2Wmf, .a0XzNd .O8VmIc .gadasb, .GLcBOb, .tNxQIb, .wwUB2c, .wHYlTd, .ZwRhJd, .e9EfHf, .NUnG9d, .y355M, .MBeuO, .hIOe2, .kEwVtd, .KSvtLc, .ZUo4Ze, .WGvvNb, .Xjkr3b, .dWRflb, .a8Pemb, .aULzUe, .bONr3b, .iXEZD, .NzUzee, .wMqN0e, .fxgdke, .rwGmGe, .Vu5SMe .XWVz1e, .Vu5SMe .ELcVZ, .Vu5SMe button, .Vu5SMe [role="button"], .iPukc .gadasb, .gsfi, .lst, html, body, h1, input, select{
+    font-family: 'M PLUS 1', sans-serif !important;}
+/*--------------------------------------------------------------------------------------------------------------------------------*/
+
+
+a.MV3Tnb, .gb_e{
+    background-color:#c1e6e8;
+    border-radius:50px;
+    padding-left:10px;
+    padding-right:10px;
+    margin-left:10px;
+}
+.lnXdpd{
+    border-radius:20px;
+}
+.c93Gbe{
+    background-color:#e3f9f2;
+    border-top-left-radius:30px;
+    border-top-right-radius:30px;
+}
+
+
+
+
+.RNNXgb, .o6juZc{
+    align-items: center;
+    background-color:#EFEFEF;
+        box-shadow:none
+}
+
+.e3JjXb{
+    padding-top:0px;
+}
+
+.GeTMDd{
+    align-items: center
+}
+
+.Tg7LZd, .rCGXm{
+    background-color:white;
+    margin-right:4px;
+    border-radius:50px;
+    height:40px;
+    width:40px;
+}
+
+.zgAlFc, .XZ5MVe{
+    margin-left:9px;
+}
+
+.hdtb-mitem.hdtb-msel{
+    background-color:#EFEFEF;
+    border-radius:80px;
+    height:13px;
+    color:black;
+    font-weight: bold;
+    padding-bottom:10px;
+    padding-top:10px;
+}
+
+
+
+
+.minidiv .sfbg, .Lj9fsd.DU1Mzb{
+    backdrop-filter: blur(8px);
+    background-color:#fffc;
+    height:80px;
+}
+.Lj9fsd.DU1Mzb .o6juZc{
+    height:44px;
+}
+.qs41qe{
+    border-radius:50px;
+    margin-top:15px;
+    margin-left:10px;
+    margin-right:10px;
+    backdrop-filter: blur(8px) !important;
+    background-color:#fff;
+    box-shadow:0 0 8px #73737387
+}
+.F9PbJd{
+    border:none;
+    background-color:#EFEFEF;
+    border-radius:50px;
+}
+.BcUvif{
+    border-top-left-radius:50px;
+    border-bottom-left-radius:50px;
+}
+
+.minidiv .RNNXgb{
+    background-color:#EFEFEF;
+    border:none
+}
+
+.minidiv .Tg7LZd{
+    height:25px;
+    width:25px;
+    margin-right:5px;
+}
+
+.minidiv .Tg7LZd .zgAlFc{
+    margin-left:2px;
+}
+
+.sbct{
+    background-color:#EFEFEF;
+    border-radius:20px;
+    margin:7px;
+}
+.G43f7e{
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+
+
+
+
+.aajZCb{
+    background-color:#ffffff91;
+    backdrop-filter: blur(8px);
+}
+
+
+
+
+
+body{
+    background-color:#F8F8F8;
+}
+.appbar{
+    background-color:#F8F8F8;
+}
+
+.g.tF2Cxc,.g{
+    background-color:white;
+    border-radius:20px;
+    padding:10px;
+    box-shadow:0 0 10px #86868626;
+}
+.TQc1id .I6TXqe{
+    border:none;
+}
+
+.gBPM8 .PNCib{
+    background-color:white;
+    border-radius:20px;
+    padding:10px;
+    box-shadow:0 0 10px #86868626;
+}
+.wXeWr{
+    border-radius:20px;
+}
+
+
+.WaWKOe{
+    background-color:#fff;
+    border-radius:20px;
+}
+.l39u4d{
+    border-radius:20px;
+    box-shadow:0 0 10px #86868691;
+}
+.n3VNCb{
+    border-radius:20px;
+}
+.QnfS4e{
+    background-color:white;
+    border:none;
+}
+.zjoqD .qdnLaf{
+    background-color:white;
+}
+
+.kEwVtd .S4aXnb{
+    color:black
+}
+.a0XzNd .O8VmIc .gadasb{
+    color:black
+}
+.jdp5U .WGvvNb{
+    color:black;
+}
+.kPVgH{
+    color:black
+}
+.tW8luc.Xc6hQ{
+    border-color:#EFEFEF;
+    border-width:5px;
+}
+.kPVgH:not(:first-of-type){
+    border-color:#EFEFEF;
+    border-width:5px;
+}
+.bZeFTe{
+    border-radius:50px;
+}
+.ggjbN, .SIwKhe{
+    background-color:black;
+}
+.mye4qd{
+    background-color:#fff;
+    border:none;
+    border-radius:50px;
+    background-image:none;
+    box-shadow:0 0 10px #8686862b;
+}
+.cv2VAd, .ftSUBd, .i0X6df, .ECBYL .sh-dr__g, .Yr5TG, .f196ee{
+    padding:5px;
+    background-color:white;
+    border-radius:20px;
+    border:none;
+    box-shadow:0 0 10px #86868626;
+}
+.ZkkK1e{
+    border:none;
+    box-shadow:0 0 10px #86868626;
+}
+.kp-blk{
+    border:none;
+}
+
+.MXl0lf{
+    background-color:#F1F3F4;
+    border:none;
+}
+.wUrVib{
+    color:black;
+}
+.EZRelc{
+    color:black
+}
+
+#Wprf1b,.xyGai{
+    filter: blur(5px);
+}
