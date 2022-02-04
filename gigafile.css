@@ -1,0 +1,400 @@
+
+/*-----------------------------------広告非表示-----------------------------------*/
+
+.container{
+    display:none
+}
+.banner_type_sky.bannerg1_l{
+    display:none
+}
+.banner_160x600{
+    display:none
+}
+.container_wide{
+    display:none
+}
+#geniee_overlay_outer{
+    display:none
+}
+#gigafile-slot-U1{
+    display:none
+}
+
+
+/*------------------------------------デザイン変更-----------------------------------*/
+
+/*--------------------クイック設定-------------------------*/
+
+
+/***メイン背景色***/
+body{
+    background-color:#f3fffed1;
+}
+/***ヘッダー背景色***/
+#gheader{
+    background-color:white
+}
+
+
+
+/*-------------------------ヘッダ-------------------------*/
+
+/***ヘッダーの高さ、枠線、影***/
+#gheader{
+    height:50px;
+    border:none;
+    box-shadow: 0 0 8px gray;
+}
+
+/***ヘッダー内のアイテムの整列***/
+#gh_main{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+/***ツイートアイコンの非表示***/
+#tw_btn{
+    display:none
+}
+
+/***ロゴの隣のアナウンスの非表示***/
+.gh_announce_txt{
+    display:none
+}
+
+/***ヘッダーメニューの背景色***/
+#nav_box{
+    background-color:#bfdce1;
+    border-radius: 50px;
+}
+
+/***ヘッダーメニュー内アイテムの色***/
+.nav_box_a{
+    color:white;
+    font-weight: bold;
+}
+
+/*-------------------------メイン-------------------------*/
+
+/***メインボックスの背景色***/
+#contents_box{
+    border-radius:40px;
+    margin-top:60px;
+    margin-bottom:30px;
+    background-color:#bfdce1
+}
+
+/***マージン、高さの調整***/
+#wrap_contents_box{
+    margin-left:0px;
+    min-height:600px !important;
+}
+
+/***新着情報の非表示***/
+.wrap_news{
+    display:none
+}
+
+/***アップロードボックスの背景色***/
+#contents_upload{
+    background-color:#bfdce1;
+    box-shadow:none;
+    border:none
+}
+
+/***タブメニューの調整***/
+#contents_header{
+    align-items: center;
+    padding:7px;
+    background-color:white;
+    border-radius: 50px;
+    border-bottom:none !important;
+}
+
+/***タブメニューアップロードボタンの調整***/
+.tab_upload.header_selected{
+    border-radius: 50px !important;
+    background-color:#bfdce1 !important;
+    box-shadow: 0 0 5px #d9e9ec;
+}
+
+/***保存期限メーターの現在選択中の調整***/
+#lifetime_meter{
+    text-align:center;
+    border:none;
+    border-radius: 50px;
+    background-color:white;
+}
+
+/***保存期限メーターの現在選択中の文字色の調整***/
+#lifetime_text{
+    color:black
+}
+
+/***保存期限メーター選択外の調整***/
+#wrapper_lifetime_meter{
+    background-color:#a5c1c6;
+    border-radius: 50px;
+}
+
+/***保存期限メーター点線の調整***/
+#lifetime_divisions > li{
+    border-right:0px
+}
+
+/***「ファイルの保持期限変更」の調整***/
+#lifetime_meter_box-text{
+    border-radius: 50px;
+}
+
+/***ドラックスペースの調整***/
+#dnd_panel{
+    border-radius: 20px;
+    background-color:white;
+}
+
+/***ドラックスペースの文字の調整***/
+.dnd_panel_text{
+    color:#868686;
+}
+
+/***まとめるボックスの調整***/
+#matomete{
+    border-radius: 20px;
+    background-color:white;
+}
+
+/***zipファイル名インプットボックスの調整***/
+#zip_file_name{
+    border-radius: 20px;
+    border:none;
+    box-shadow: 0 0 3px gray;
+}
+
+/***パスワードインプットボックス（まとめ）の調整***/
+#zip_dlkey{
+    border-radius: 20px;
+    border:none;
+    box-shadow: 0 0 3px gray;
+}
+
+/***パスワードインプットボックス（個々）の調整***/
+.dlkey_inp{
+    width:55px;
+    text-align:center;
+    border:none;
+    box-shadow: 0 0 3px gray;
+    border-radius: 20px;
+}
+
+/***まとめるボタンの調整***/
+#matomete_btn{
+    background-color:#bfdce1;
+    border-radius: 20px;
+}
+
+/***まとめ後のurlボックスの調整***/
+#matomete_url{
+    padding-left:5px;
+    padding-right:5px;
+    border-radius: 20px;
+    border:none;
+    box-shadow: 0 0 3px gray;
+}
+#matomete_urx{
+    padding:5px;
+    color:white;
+    background-color:#bfdce1;
+    border-radius: 20px;
+    text-align:center;
+    font-weight: bold;
+    font-size:15px
+}
+.upload_panel_button_default{
+    border-radius: 20px;
+    color:#5b5b5b;
+    border:none;
+    font-size:15px;
+}
+
+.file_info{
+    border-radius: 20px;
+    background-color:#f6fafb;
+    border: dashed white;
+}
+
+.prog{
+    border-radius: 20px;
+}
+.url{
+    border-radius: 20px;
+    border:none;
+    box-shadow: 0 0 3px gray;
+    padding-left:5px;
+    padding-right:5px;
+}
+.delkey{
+    border-radius: 20px;
+    border:none;
+    box-shadow: 0 0 3px gray;
+    padding-left:5px;
+    padding-right:5px;
+    width:50px;
+    text-align:center;
+}
+
+.txt_small_3{
+    padding-top:5px !important;
+    padding-bottom:5px !important;
+    padding-left:20px !important;
+    padding-right:20px !important;
+    color:white;
+    background-color:#bfdce1;
+    border-radius: 20px;
+    text-align:center;
+    font-weight: bold;
+    font-size:15px
+}
+.file_qr_area{
+    border-radius: 20px;
+}
+.set_dlkey{
+    border-radius: 20px;
+    color:#5b5b5b;
+    border:none;
+    font-size:13px;
+}
+
+
+
+
+#contents_email{
+    margin-top:10px;
+    border-radius: 20px;
+    box-shadow:none;
+}
+#contents_config{
+    margin-top:10px;
+    border-radius: 20px;
+    box-shadow:none;
+}
+#contents_gigafilerpg{
+    margin-top:10px;
+    border-radius: 20px;
+    box-shadow:none;
+}
+#contents_header li.header_selected{
+    border-radius: 50px !important;
+    background-color:#bfdce1 !important;
+    box-shadow: 0 0 5px #d9e9ec;
+}
+
+
+/*--------------------------受け取るページ-------------------------*/
+
+.contents_body{
+    margin-top:10px;
+    border-radius: 20px;
+    box-shadow:none;
+    border:none
+}
+
+#matomete_zip_prog_box{
+    background-color:#bfdce1;
+    border-radius: 20px;
+}
+.matomete_file_info{
+    background-color:#fff;
+    border-radius: 20px;
+    padding:10px;
+}
+.matomete_prog_box{
+    background-color:#fff;
+    border-radius: 20px;
+    padding:10px;
+}
+
+.download_panel_btn_dl{
+    border-radius: 20px;
+    color:#5b5b5b;
+    border:none;
+    font-size:13px;
+}
+.to_fly button{
+    border-radius: 20px;
+    color:#5b5b5b;
+    border:none;
+    font-size:13px;
+}
+#matomete_zip_dlkey{
+        border-radius: 20px;
+    border:none;
+    box-shadow: 0 0 3px gray;
+    padding-left:5px;
+    padding-right:5px;
+    width:50px;
+    text-align:center;
+}
+.matomete_dlkey{
+            border-radius: 20px;
+    border:none;
+    box-shadow: 0 0 3px gray;
+    padding-left:5px;
+    padding-right:5px;
+    width:50px;
+    text-align:center;
+}
+.matomete_delkey{
+        border-radius: 20px;
+    border:none;
+    box-shadow: 0 0 3px gray;
+    padding-left:5px;
+    padding-right:5px;
+    width:50px;
+    text-align:center;
+}
+
+
+
+#memoarea{
+    border-radius:10px;
+}
+#send_email{
+    border-radius:50px;
+}
+#email_addr{
+    border-radius:10px;
+}
+#dlnotify_mail_addr{
+    border-radius:10px;
+}
+
+#btn_official{
+    border-radius:50px;
+}
+
+
+
+#download_prog_box{
+    border-radius:50px;
+}
+
+#dlkey{
+    border-radius: 20px;
+    border:none;
+    box-shadow: 0 0 3px gray;
+    padding-left:5px;
+    padding-right:5px;
+    width:50px;
+    text-align:center;
+}
+#delkey{
+    border-radius: 20px;
+    border:none;
+    box-shadow: 0 0 3px gray;
+    padding-left:5px;
+    padding-right:5px;
+    width:50px;
+    text-align:center;
+}
