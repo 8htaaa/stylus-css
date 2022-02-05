@@ -1,0 +1,141 @@
+/*------------------------------------------------------------フォント------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&family=M+PLUS+1:wght@500&family=Mochiy+Pop+P+One&family=Ubuntu:wght@700&display=swap');
+
+.q8U8x{
+    font-family: 'Mochiy Pop P One', sans-serif;}
+
+.g, .gb_Xd, .o-Yc-o-T, .a-l-Ba .h-R-w-d.a-l-S-Pc-w-d, .a-ub-ra-B>.h-ra-B>.h-ra-ha, .a-ub-ra-B>.h-ra-B>.h-ra, .a-q-dn-ka-V, .a-q-Lf-V, .a-q-Jc-V, .a-q-Gd, .a-Mg-V-T, .a-Mg-YsLxq-V-T, .gb_sb.gb_sb, .gb_3b, .gb_1b, .gb_Zb, .ZqJeHd.a-c-d.a-r-d, .gb_qb.gb_qb, .gb_i .gb_mb, .gb_i .gb_kb, .Kp18bf, .LqvO9e, .gb_1d, .kEwVtd .S4aXnb, .G3iQRe, .dPO1Qe, .Sa2Wmf, .a0XzNd .O8VmIc .gadasb, .GLcBOb, .tNxQIb, .wwUB2c, .wHYlTd, .ZwRhJd, .e9EfHf, .NUnG9d, .y355M, .MBeuO, .hIOe2, .kEwVtd, .KSvtLc, .ZUo4Ze, .WGvvNb, .Xjkr3b, .dWRflb, .a8Pemb, .aULzUe, .bONr3b, .iXEZD, .NzUzee, .wMqN0e, .fxgdke, .rwGmGe, .Vu5SMe .XWVz1e, .Vu5SMe .ELcVZ, .Vu5SMe button, .Vu5SMe [role="button"], .iPukc .gadasb, .gsfi, .lst, html, body, h1, input, select{
+    font-family: 'M PLUS 1', sans-serif !important;}
+/*--------------------------------------------------------------------------------------------------------------------------------*/
+
+body{
+    background-color:#FFFBF8;
+}
+.ak25Me{
+    border:none;
+    box-shadow:0 0 8px #7373733d;
+}
+.gb_Ua:not(.gb_Ad) {
+background-color:#FFFBF8 !important;}
+.gb_Me{
+    background-color:#F8EFE6;
+}
+.a-ec-Gd .Kzazxf.x6jRSb{
+    background-color:#F8EFE6;
+    box-shadow:0 0 8px #7373733d;
+}
+.a-U-ye-ha>.a-U-J{
+    background-color:#F6E0BB;
+}
+.a-U-ye-ha>.a-U-J>.a-U-J-x, .a-Ng-c-ha svg{
+    color:black;
+    fill:black;
+}
+.a-S-dc{
+    background-color:#F6E0BB;
+    border:none;
+    border-radius:50px;
+}
+.a-ub-Gd{
+    background-color:#F8EFE6;
+    border:none;
+    border-radius:20px;
+
+}
+.a-ub-oa{
+    background-color:#F8EFE6
+}
+.a-Mg-al{
+    box-shadow:0 0 8px #7373735c;
+    border-radius:20px;
+    margin:10px;
+}
+.s55KNe:not(.KBj6Qd) .GZwC2b .jGNTYb, .aabwZd:not(.KBj6Qd) .GZwC2b{
+    background-color:#F8EFE6;
+    color:black;
+}
+.aabwZd .WYuW0e{
+    border:none;
+    margin:5px;
+}
+.aabwZd .N7iPof{
+    border:none;
+    background-color:transparent;
+}
+.mXlnof .a-s-Ba-Ak{
+    border:none;
+    background-color:#F6E0BB;
+    border-radius:50px;
+    margin-top:5px;
+    margin-right:5px;
+    padding-left:10px;
+}
+.a-c-d.h-R-d-rc, .a-l-S-Pc-w-d.h-R-w-d-pb{
+    color:black;
+    background-color:#F8EFE6;
+}
+.a-l-S-Pc-w-d.h-R-w-d-W{
+    background-color:#F8EFE6;
+}
+.l-Mg-wg-o .a-q-zb-j{
+    border-radius:15px;
+}
+.uJtSke.paynGb:not(:disabled){
+    border:none;
+    background-color:#F8EFE6;
+    color:black;
+    border-radius:50px;
+}
+.B-ZB7aWe-UvFRu.L3Yhxc-Ya{
+    background-color:#735401
+}
+.y-C-Ed-V{
+    background-color:#F8EFE6
+}
+.y-C{
+    background-color:#FFFBF8;
+    border:none;
+    border-radius:15px;
+    box-shadow:0 0 8px #7373735c;
+    margin:5px;
+}
+.a-ub-ra-B>.h-ra-B>.h-ra-ha{
+    color:black;
+    background-color:#F6E0BB;
+    border-radius:50px;
+    margin:5px;
+}
+.a-ub-ra-B>.h-ra-B>.h-ra.h-ra-ha>.a-ra-Mb-j>.a-ra-Mb{
+    border-color:transparent;
+}
+.a-jn-yd, .gb_Me.gb_Ne, .a-jn-yd, .a-jn-Ma-nb-J{
+    background-color:#F8EFE6 !important;
+}
+.h-uj{
+    background-color:#F8EFE6;
+    border-bottom-left-radius:20px;
+    border-bottom-right-radius:20px;
+}
+.a-Lk .g-d-Y:not(.g-d-db), .a-Lk .g-d-Y:not(.g-d-db):focus, .a-Lk .g-d-Y:not(.g-d-db).g-d-Pb, .a-Ws-nb-Oh-Ma-A,.a-Lk .g-d-wd:not(.g-d-db), .a-Lk .g-d-wd:not(.g-d-db):focus, .a-Lk .g-d-wd:not(.g-d-db).g-d-Pb{
+    background-color:#F6E0BB;
+    color:black;
+    border-radius:20px;
+}
+.Kk7lMc-Yb-Il-j{
+    border:none;
+    background-color:#FFFBF8;
+    box-shadow:0 0 8px #7373735c;
+}
+
+
+
+
+.L202Xe, .s55KNe .jGNTYb, .WYuW0e [role="row"]{
+    border:none;
+    box-shadow:0 0 8px #73737326;
+    border-radius:15px;
+            
+}
+
+
+
